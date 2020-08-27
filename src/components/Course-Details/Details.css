@@ -1,0 +1,8 @@
+.details{
+    border-bottom: 1px solid lightgray;
+    padding:10px;
+}
+.details:hover{
+    background-color:rgb(26, 223, 19);
+    transition: 1s;
+}
